@@ -13,4 +13,4 @@
 Neural networks from the ground up (NumPy → PyTorch)
 
 ### 📫 Contact
-[LinkedIn]([https://www.linkedin.com/in/TWOJ-LINK](https://www.linkedin.com/in/%C5%82ukasz-musia%C5%82-4b206624b/)) · lukasz.musiall14@gmail.com
+[LinkedIn]([(https://www.linkedin.com/in/%C5%82ukasz-musia%C5%82-4b206624b/])) · lukasz.musiall14@gmail.com
